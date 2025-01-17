@@ -10,7 +10,7 @@ This repository contains the backend setup required to host and manage your visu
 
 To get started with the client-side application:
 
-1. **Choose a client-side technology** from one of the client repositories:
+1. **Choose a client-side technology** from one of the  [client](https://github.com/RevealBi-DashboardBuilder/client)  repositories:
    - **React**
    - **Angular**
    - **HTML**
